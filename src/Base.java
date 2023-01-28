@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class Base {
     public static void main(String[] args){
-        ArrayList<Car> bazaSamochodow = new ArrayList<Car>();
+        ArrayList<Car> bazaSamochodow = new ArrayList<>();
         Car car1 = new Car(250000.0, "Audi", 943.0, "Czarny","Premium", true, true, true, true, true);
         Car car2 = new Car(200000.0, "BMW", 532.0, "Srebrny","Premium", true, true, true, true, true);
         Car car3 = new Car(150000.0, "Mercedes", 9821.0, "Biały","Premium", true, true, true, true, true);

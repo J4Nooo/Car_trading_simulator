@@ -20,8 +20,4 @@ public Car(Double wartosc, String marka, Double przebieg, String kolor, String s
     SkrzyniaBiegow = skrzyniabiegow;
     }
 
-
-
-
-
 }
